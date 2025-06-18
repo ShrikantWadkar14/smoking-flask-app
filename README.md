@@ -2,6 +2,9 @@
 
 This project implements a machine learning-based system to classify smoker status using health signal data. The application provides a web interface for users to input health metrics and receive predictions about smoking status.
 
+## Live Demo
+https://smoking-flask-app.onrender.com/
+
 ## 🚀 Features
 
 - Web-based interface for easy interaction
@@ -85,7 +88,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Shrikant Wadkar
 📧 shrikantwadkar100@gmail.com
 🔗 https://github.com/ShrikantWadkar14
-
+ 
 ## Snapshots
 ![Screenshot 2025-06-18 164724](https://github.com/user-attachments/assets/5a50b043-63f9-4faa-93c8-918e0f7593da)
 ![Screenshot 2025-06-18 164803](https://github.com/user-attachments/assets/b109cc37-f020-4035-8179-43137eae251c)
