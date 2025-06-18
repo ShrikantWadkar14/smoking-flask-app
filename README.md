@@ -86,3 +86,14 @@ Shrikant Wadkar
 📧 shrikantwadkar100@gmail.com
 🔗 https://github.com/ShrikantWadkar14
 
+## Snapshots
+![Screenshot 2025-06-18 164724](https://github.com/user-attachments/assets/5a50b043-63f9-4faa-93c8-918e0f7593da)
+![Screenshot 2025-06-18 164803](https://github.com/user-attachments/assets/b109cc37-f020-4035-8179-43137eae251c)
+![Screenshot 2025-06-18 165034](https://github.com/user-attachments/assets/248ea595-e8e9-410b-bc68-5c134aa74a06)
+![Screenshot 2025-06-18 165101](https://github.com/user-attachments/assets/19f5715a-e4da-4b0a-9c0a-167139084faf)
+![Screenshot 2025-06-18 165139](https://github.com/user-attachments/assets/078a4cb1-1369-4534-8bea-ad9cf4644a37)
+![Screenshot 2025-06-18 165214](https://github.com/user-attachments/assets/1011a8f3-0fad-4c99-83dc-1b203bb412e3)
+
+
+
+
